@@ -1,5 +1,5 @@
-dato = int(input("Ingrese un numero: "))
-dato2 = int(input("Ingrese un numero: "))
+dato = int(input("Ingresar un numero: "))
+dato2 = int(input("Ingresar un numero: "))
 
 
 if ((dato%2==0) and (dato2%2==0)):
